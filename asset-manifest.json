@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/css/main.db99c3c0.css",
+    "main.js": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/js/main.21377f60.js",
+    "static/js/453.a3cd45e0.chunk.js": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/js/453.a3cd45e0.chunk.js",
+    "static/media/logo.png": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/media/logo.7f2c8ab5260f63bad026.png",
+    "static/media/club.png": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/media/club.9738e017c5ad92b727e4.png",
+    "static/media/logo.svg": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/index.html",
+    "main.db99c3c0.css.map": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/css/main.db99c3c0.css.map",
+    "main.21377f60.js.map": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/js/main.21377f60.js.map",
+    "453.a3cd45e0.chunk.js.map": "/kanishkar10k/Student-Education-Tracking-System-in-ReactJS.git/static/js/453.a3cd45e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db99c3c0.css",
+    "static/js/main.21377f60.js"
+  ]
+}
